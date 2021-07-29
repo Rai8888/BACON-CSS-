@@ -1,0 +1,57 @@
+/* TAG SELECTORS */
+
+body {
+    background-color: rgb(124, 66, 42);
+}
+
+h1 {
+    color: red;
+    width: 100%;
+    text-align: center;
+    font-size: 1000%;
+    margin: 0;
+    text-shadow: 5px 10px 10px black;
+}
+
+/* CLASS SELECTORS */
+
+div.baconImg {
+    padding: 10%;
+    background-image: url("/Bacon.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+div.baconParagraph {
+    text-align: center;
+    color: aliceblue;
+}
+
+.bacon {
+    background-color: green;
+    width: 20%;
+    transition: width 2s;
+}
+
+
+.broccoli {
+    background-color: red;
+    width: 20%;
+    transition: width 2s;
+}
+
+
+.bacon:hover, .broccoli:hover {
+    width: 30%;
+    background-color: none;
+}
+
+/* ID SELECTORS */
+
+#header {
+    color: red;
+}
+
+#broccoli {
+    border-radius: 100%;
+}
