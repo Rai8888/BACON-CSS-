@@ -15,19 +15,19 @@ h1 {
 
 /* CLASS SELECTORS */
 
-div.baconImg {
+div.appleImg {
     padding: 10%;
     background-image: url("/Bacon.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
-div.baconParagraph {
+div.appleParagraph {
     text-align: center;
     color: aliceblue;
 }
 
-.bacon {
+.apple {
     background-color: green;
     width: 20%;
     transition: width 2s;
