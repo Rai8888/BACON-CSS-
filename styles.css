@@ -24,7 +24,8 @@ div.pineappleImg {
 
 div.pineappleParagraph {
     text-align: center;
-    color: aliceblue;
+    font-family: sans-serif;
+    color: lightblue;
 }
 
 .pineapple {
@@ -51,7 +52,11 @@ div.pineappleParagraph {
 #header {
     color: red;
 }
+#pineapple {
+    border-radius: 100%;
+}
 
 #broccoli {
     border-radius: 100%;
 }
+
