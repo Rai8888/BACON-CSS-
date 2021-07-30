@@ -30,7 +30,7 @@ div.pineappleParagraph {
 .pineapple {
     background-color: green;
     width: 20%;
-    transition: width 2s;
+    transition: width 3s;
 }
 
 
@@ -41,7 +41,7 @@ div.pineappleParagraph {
 }
 
 
-.bacon:hover, .broccoli:hover {
+.pineaaple:hover, .broccoli:hover {
     width: 30%;
     background-color: none;
 }
