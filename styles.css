@@ -13,13 +13,13 @@ h1 {
     text-shadow: 5px 10px 10px black;
 }
 
-/* CLASS SELECTORS */
+/* CLASS SELECTORS 
 
 div.pineappleImg {
     padding: 10%;
     background-image: url("/pineapple.jpg");
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
 }
 
 div.pineappleParagraph {
